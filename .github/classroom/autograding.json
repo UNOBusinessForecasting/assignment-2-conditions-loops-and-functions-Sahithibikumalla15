@@ -1,0 +1,74 @@
+{
+  "tests": [
+    {
+      "name": "Test Decibel",
+      "setup": "",
+      "run": "python -m unittest tests/testDecibel.py",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test Fibonacci",
+      "setup": "",
+      "run": "python -m unittest tests/testFibonacci.py",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test Fours",
+      "setup": "",
+      "run": "python -m unittest tests/testFours.py",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test Prime",
+      "setup": "",
+      "run": "python -m unittest tests/testPrime.py",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test Print Loop",
+      "setup": "",
+      "run": "python -m unittest tests/testPrintLoop.py",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test Taxi",
+      "setup": "",
+      "run": "python -m unittest tests/testTaxi.py",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test While Loop",
+      "setup": "",
+      "run": "python -m unittest tests/testWhileLoop.py",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 1
+    }
+  ]
+}
